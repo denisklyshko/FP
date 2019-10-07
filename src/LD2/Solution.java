@@ -1,4 +1,4 @@
-package LD3;
+package LD2;
 
 public class Solution {
 	
